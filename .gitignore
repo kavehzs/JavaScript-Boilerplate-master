@@ -6,7 +6,7 @@ dist
 *.patch
 /*.txt
 /*.csv
-*.html
+/*.html
 .DS_Store
 .sizecache.json
 node_modules
